@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiObjectiveSearch", "multiObjectiveSearch\multiObjectiveSearch.csproj", "{371EE531-4BBF-4D72-9D96-C46A8D936876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{371EE531-4BBF-4D72-9D96-C46A8D936876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371EE531-4BBF-4D72-9D96-C46A8D936876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371EE531-4BBF-4D72-9D96-C46A8D936876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371EE531-4BBF-4D72-9D96-C46A8D936876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+//---------------------------------HyPE
+HypE_OuterLoopMaxRuns:3
+HyPE_InnerLoopMaxRuns:50
+HypE_populationsize:20
+//HypE_dimentions: number of objectives
+HypE_dimentions:5
+HypE_tournament:5
+HypE_mating:1
+HypE_bound:5
+//hype selection : how many of population must be selected?
+HypE_SelectionSize:40
+HypE_nrOfSamples:1000
+NSGA2_P_Mutation:0.05
+NSGA2_P_Crossover:0.95
+//--------------------------------NSGA2
+NSGA2_OuterLoopMaxRuns:3
+NSGA2_InnerLoopMaxRuns:2500
+NSGA2_population_size:25
+NSGA2_P_Mutation:0.02
+NSGA2_P_Crossover:0.98
+//-------------------------------shape file
+pointsaddress:points\\river.shp
+//flow1 = top,buttom,none
+flow1:buttom
+//flow2 = left,right,none
+flow2:right
+//initial points : a file containing initial points
+initial_points:initialpoints.txt
+//initial points import type: add=add them to some other random points,
+//                            no =use them as the only initial points
+initial_import_type:add
