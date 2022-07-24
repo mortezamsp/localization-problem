@@ -1,5 +1,5 @@
 # localization-problem
-Ther is a known problem: finding the best location for water monitoring station, w.s.t. 6 objectives (like power lines, roads, rivers, ...). 
+There is a known problem: finding the best location for water monitoring station, w.s.t. 6 objectives (like power lines, roads, rivers, ...). 
 I hired a HyPE multi-objective indicator inside a genethic algorithm to find a proper location.
 I know answers are not optimal.
 
