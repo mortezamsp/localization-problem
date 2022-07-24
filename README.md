@@ -1,6 +1,6 @@
 # localization-problem
 There is a known problem: finding the best location for water monitoring station, w.s.t. 6 objectives (like power lines, roads, rivers, ...). 
-I hired a HyPE multi-objective indicator inside a genethic algorithm to find a proper location.
+I hired a HyPE multi-objective indicator inside a genethic algorithm to find a proper location. Another time, i did the same with a NSGA-II version.
 I know answers are not optimal.
 
 main paper for hype indicator:
