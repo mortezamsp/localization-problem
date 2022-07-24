@@ -1,0 +1,6 @@
+// enter some points, program will add them to the 
+// first generation or uses them as the first generation.
+// enter points like this:
+// 1.1111,2.2222
+1.12,1.11
+0.111,0.222
